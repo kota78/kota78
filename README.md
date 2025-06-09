@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/7fa5fdbd-8dec-4c6f-90b8-e77c7a0ab070" width=320 />
 <img src="https://github.com/user-attachments/assets/a5047f97-0d6c-455a-831e-749fe812ff00" width=320 />
 <img src="https://github.com/user-attachments/assets/4fcb3701-2a54-411a-8e15-2b753a878668" width=320 />
+
+# Yumemi x PG Hackathon
+所属コミュニティに企業様をお迎えして開催したハッカソン
+### [リポジトリ](https://github.com/shinonome-inc/yumemi-pg-hackathon-team2)
+<img width="640" alt="443988063-8428b525-891c-45f6-9b49-248094ed44a4" src="https://github.com/user-attachments/assets/29c43c14-ecd0-4426-939b-0379573b4883" />
