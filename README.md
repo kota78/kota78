@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 # 【TOYOTA × 42 Tokyo】 自動運転ミニカーバトル
 自動運転ミニカーを開発する大会に出場しました。[参考記事](https://42tokyo.jp/news/2024-02-02-j9ixc7lm8x/)
+
 使用部品：raspberry pi，超音波センサー，ラジコンのシャーシ等
 
 <img src="https://github.com/user-attachments/assets/e7acb141-b1b5-4d8b-8911-b478f0558c2f" height=300 />
