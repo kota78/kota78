@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 # 【TOYOTA × 42 Tokyo】 自動運転ミニカーバトル
 raspberry pi，超音波センサー，ラジコンのシャーシ等を使い，自動運転ミニカーを開発する大会に出場しました。[参考記事](https://42tokyo.jp/news/2024-02-02-j9ixc7lm8x/)
-### 作ったもの
 <img src="https://github.com/user-attachments/assets/e7acb141-b1b5-4d8b-8911-b478f0558c2f" height=300 />
 <img src="https://github.com/user-attachments/assets/5069447a-b5c8-44da-84a1-855bc8b248cd" height=300 />
 
