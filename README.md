@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/user-attachments/assets/a5047f97-0d6c-455a-831e-749fe812ff00" width=200 />
 <img src="https://github.com/user-attachments/assets/4fcb3701-2a54-411a-8e15-2b753a878668" width=200 />
 
-# TokyoFlutterHackathon　2024
+# Tokyo　Flutter　Hackathon　2024
 [所属しているコミュニティ](https://playground-universe.com/)のメンバーと出場し、ゆめみ賞をいただきました。
 ### 作ったもの
 GitHubの「草」を食べることで、Flutterの公式キャラクターが成長するゲーム
